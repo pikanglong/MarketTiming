@@ -1,0 +1,6 @@
+[binance]
+apiKey = ABCDEFG
+secret = HIJKLMN
+
+[serverchan]
+sckey = OPQRST
